@@ -5,6 +5,12 @@ as far back as very early versions of this codebase, which was started in 2017
 (though note that there was an earlier version of OSMCha whose code is not
 included in the history of this repository).
 
+### 1.4.0
+
+- Improve the user watchlist management UI, and fix some papercuts that
+  made it painful to manage large watchlists. (#918)
+- Fix the imagery provider reverting to Bing on reload (#915)
+
 ### 1.3.2
 
 - Improve help text for sort order field in filter UI
